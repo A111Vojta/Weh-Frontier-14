@@ -12,6 +12,7 @@
   supervisors: job-supervisors-plant-manager
   weight: 80
   displayWeight: 0
+  whitelisted: true
   access:
   - Engineering
   - Atmospherics
