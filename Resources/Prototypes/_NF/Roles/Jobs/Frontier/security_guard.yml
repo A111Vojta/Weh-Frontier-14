@@ -13,6 +13,7 @@
   weight: 80
   displayWeight: 20 # Second from the bottom
   canBeAntag: false
+  whitelisted: true
   access:
   - Security
   - Brig
