@@ -10,6 +10,7 @@
   supervisors: job-supervisors-hire
   weight: 3 # Prioritize station & department jobs
   displayWeight: 20 # Second from the bottom
+  whitelisted: true
   access:
   - Mercenary
   accessGroups:
