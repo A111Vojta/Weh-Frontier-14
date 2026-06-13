@@ -19,6 +19,7 @@
   displayWeight: 20
   setPreference: true
   newPlayerMessage: false
+  whitelisted: true
   access:
   - Pirate
   accessGroups:
