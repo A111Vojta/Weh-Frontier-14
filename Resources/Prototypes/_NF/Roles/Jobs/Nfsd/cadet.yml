@@ -16,6 +16,7 @@
   weight: 70
   displayWeight: 10
   canBeAntag: false
+  whitelisted: true
   accessGroups:
   - CadetNfsdAccess
   special:
