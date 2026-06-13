@@ -14,6 +14,7 @@
   icon: "JobIconWarden"
   supervisors: job-supervisors-bailiff # Frontier
   canBeAntag: false
+  whitelisted: true
   access:
   - Security
   - Brig
