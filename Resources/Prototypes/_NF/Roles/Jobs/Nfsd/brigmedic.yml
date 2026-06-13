@@ -22,6 +22,7 @@
   weight: 125
   displayWeight: 35
   canBeAntag: false
+  whitelisted: true
   access:
   - Brigmedic
   accessGroups:
